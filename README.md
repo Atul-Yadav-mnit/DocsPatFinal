@@ -23,3 +23,6 @@ In order to make appointment make appropiate choice of department and doctor and
 For doctors :- 
 Firstly you need to contact us to register yourself. We will verify your details and register you on our platform. After that just simply login in the web app and dive into my patients section to look out for todays booking. Also prescribe the patient straight away from the app.
 
+Developers Contact:
+ATUL YADAV
+atulyadav9416@gmail.com
