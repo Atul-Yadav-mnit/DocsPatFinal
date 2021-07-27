@@ -1,7 +1,7 @@
 # DocsPatFinal
 This is a new git repository containing both docspat frontend and server. It is just a new repository combined of two seperate previous git repositories on this account with some minor changes.
 
-Why does DocsPat exists?? 
+How does DocsPat came in existance?? 
 Let me share one incident with you, I with my father was waiting in a small ENT clinic. It was the time when covid second wave was taking its peak. We had to wait for 2 hours till our turn in a small clinic where social distancing was next to impossible.I had a chitchat with doctor but was not able to talk more as paients were waiting. I came to know from the counter person that most of these reside far away from city as rewari has widespread villages but everyone has to come to main city for their needs and these people prefer to wait for hours rather than just having a round trip again. So i decided to develop something for them as the problem was that the process of getting appointment was totally offline,
 
 I had learned making web apps using MERN stack. Thats how docspat started came in its existance.
